@@ -648,3 +648,25 @@ export const projectsData: Project[] = [
     ]
   },
 ]; 
+{
+  id: "celdataofficial",
+  name: "CelData",
+  logo: "/path/to/logoceldata.png", 
+  imgClassName: "h-8 w-auto",
+  link: "http://celdata.bio",
+  tags: ["DeSci"],
+  isVerified: false,
+  description: {
+    en: "CelData, a DeSci initiative by Cel Group, is revolutionizing life sciences with a decentralized data network...",
+  },
+  socials: [
+    {
+      platform: "x",
+      link: "https://x.com/celdataofficial?t=ajT4-BX327qYvFWN0OazYQ&s=09"
+    },
+    {
+      platform: "telegram",
+      link: "https://t.me/CelData"
+    }
+  ]
+}
